@@ -8,7 +8,6 @@
     "lint-fix": "eslint --fix ."
   },
   "dependencies": {
-    "@truffle/hdwallet-provider": "^1.4.2",
     "ccxt": "^4.0.50",
     "cookie-parser": "~1.4.4",
     "cors": "^2.8.5",
@@ -19,9 +18,7 @@
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "mongoose": "^5.13.3",
-    "morgan": "~1.9.1",
-    "node-cron": "^3.0.0",
-    "web3": "^1.5.0"
+    "morgan": "~1.9.1"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
